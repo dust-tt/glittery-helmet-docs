@@ -2,10 +2,10 @@
 title: Glittery Helmet Documentation
 description: Comprehensive documentation for Glittery Helmet's AI-powered cybersecurity solutions
 baseurl: "/glittery-helmet-docs" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # Replace with your GitHub username
+url: "https://dust-tt.github.io" # Replace with your GitHub username
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
