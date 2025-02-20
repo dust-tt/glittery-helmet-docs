@@ -1,0 +1,43 @@
+# Site settings
+title: Glittery Helmet Documentation
+description: Comprehensive documentation for Glittery Helmet's AI-powered cybersecurity solutions
+baseurl: "/glittery-helmet-docs" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # Replace with your GitHub username
+
+# Build settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Company Overview
+    url: /company-overview
+  - title: Core Technology
+    url: /core-technology
+  - title: Organization
+    url: /organization
+  - title: Competitive Advantages
+    url: /competitive-advantages
+  - title: Growth Strategy
+    url: /growth-strategy
+  - title: Use Cases
+    url: /use-cases
+  - title: Security Guides
+    url: /security-guides
+  - title: FAQ
+    url: /faq
+
+# GitHub Pages settings
+github:
+  is_project_page: true
+  repository_url: https://github.com/yourusername/glittery-helmet-docs
+
+# Additional settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
