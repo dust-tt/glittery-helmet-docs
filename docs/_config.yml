@@ -30,6 +30,8 @@ navigation:
     url: /security-guides
   - title: FAQ
     url: /faq
+  - title: Troubleshooting
+    url: /troubleshooting
 
 # GitHub Pages settings
 github:
