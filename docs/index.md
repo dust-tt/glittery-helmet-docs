@@ -20,6 +20,7 @@ This comprehensive guide serves as a resource for:
 - [Growth Strategy](growth-strategy.md)
 - [Use Cases](use-cases.md)
 - [Security Guides](security-guides.md)
+- [Troubleshooting](troubleshooting.md)
 - [FAQ](faq.md)
 
 ## Company Snapshot
